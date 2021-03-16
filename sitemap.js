@@ -1,6 +1,6 @@
 /**  
- * BLOGGER TOC WITH ACCORDION EFFECT (SORT BY LABEL)  
- * ---------------------------------------------------  
+ جدول محتويات المدونة
+* ---------------------------------- 
  * by 
  * Modified by AMISOFT
  * URL: http://madindz.blogspot.com 
@@ -61,7 +61,7 @@
     -o-transform: rotateundefined-180deg);  
     transform: rotateundefined-180deg);  
 }  
-.tb-sitemap .loading {  
+.tb-sitemap .{  
     display: block;  
     padding: 14px;  
     text-decoration: blink;  
